@@ -12,6 +12,9 @@ Sup?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=k3sk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k3sk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Snake animation]
+(https://github.com/k3sk/k3sk/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k3sk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
