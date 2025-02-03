@@ -56,7 +56,7 @@ jobs:
 
         with:
 
-          # GitHub username to generate the animation for
+          # GitHub username to generate the animation fo
 
           github_user_name: ${{ github.repository_owner }}
 
